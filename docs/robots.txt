@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ericksmatias.github.io/ipaporanganoticias/sitemap.xml
