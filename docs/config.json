@@ -1,0 +1,56 @@
+{
+  "siteName": "Ipaporanga Notícias",
+  "tagline": "Notícias de Ipaporanga e região",
+  "blogUrl": "https://www.ipaporanganoticias.com.br",
+  "blogId": "2142557176456918842",
+  "feedBase": "https://www.blogger.com/feeds/2142557176456918842",
+  "siteUrl": "",
+  "timezone": "America/Fortaleza",
+  "liveFeed": true,
+  "pageSize": 12,
+  "maxPostsInJson": 600,
+  "whatsapp": "https://api.whatsapp.com/send?phone=5588992132694&text=Ol%C3%A1%20Gon%C3%A7alinho%2C%20visitei%20o%20blog%20Ipaporanga%20Not%C3%ADcias%2C%20gostaria%20de%20falar%20com%20voc%C3%AA",
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100044547064524",
+    "instagram": "https://www.instagram.com/ipaporanganoticias/"
+  },
+  "categories": [
+    {
+      "slug": "policia",
+      "name": "Polícia",
+      "match": [
+        "policia",
+        "policial",
+        "policis"
+      ]
+    },
+    {
+      "slug": "regional",
+      "name": "Regional",
+      "match": [
+        "regional"
+      ]
+    },
+    {
+      "slug": "politica",
+      "name": "Política",
+      "match": [
+        "politica"
+      ]
+    },
+    {
+      "slug": "ipaporanga",
+      "name": "Ipaporanga",
+      "match": [
+        "ipaporanga"
+      ]
+    },
+    {
+      "slug": "geral",
+      "name": "Geral",
+      "match": [
+        "geral"
+      ]
+    }
+  ]
+}
